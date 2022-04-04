@@ -33,8 +33,8 @@ Adefila Mustapha – [@Adeope63](https://twitter.com/adeope63) – Adeope63@gmai
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/adeope63/)
+[https://github.com/adeope63/calculator-app](https://github.com/adeope63/calculator-app)
 
 ## Contributing
 
-1. Fork it (<https://github.com/adeope63/calculator_app/fork>)
+1. Fork it (<https://github.com/adeope63/calculator-app/fork>)
