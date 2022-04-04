@@ -23,9 +23,8 @@ This how the inputs were called so making it easy to get value from the HTML wit
 
 ## Development setup
 
-This is compatible with all web Browser.It was created with HTML% and CSS3.
-
-
+This is compatible with all web Browser.It was created with HTML5 and CSS3.
+Making it a very simple Web App
 
 ## Meta
 
